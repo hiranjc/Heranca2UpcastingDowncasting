@@ -1,0 +1,14 @@
+C:\Users\ET73\Downloads\projetos-c#\Heranca2UpcastingDowncasting\bin\Debug\net8.0\Heranca2UpcastingDowncasting.exe
+C:\Users\ET73\Downloads\projetos-c#\Heranca2UpcastingDowncasting\bin\Debug\net8.0\Heranca2UpcastingDowncasting.deps.json
+C:\Users\ET73\Downloads\projetos-c#\Heranca2UpcastingDowncasting\bin\Debug\net8.0\Heranca2UpcastingDowncasting.runtimeconfig.json
+C:\Users\ET73\Downloads\projetos-c#\Heranca2UpcastingDowncasting\bin\Debug\net8.0\Heranca2UpcastingDowncasting.dll
+C:\Users\ET73\Downloads\projetos-c#\Heranca2UpcastingDowncasting\bin\Debug\net8.0\Heranca2UpcastingDowncasting.pdb
+C:\Users\ET73\Downloads\projetos-c#\Heranca2UpcastingDowncasting\obj\Debug\net8.0\Heranca2UpcastingDowncasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET73\Downloads\projetos-c#\Heranca2UpcastingDowncasting\obj\Debug\net8.0\Heranca2UpcastingDowncasting.AssemblyInfoInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Heranca2UpcastingDowncasting\obj\Debug\net8.0\Heranca2UpcastingDowncasting.AssemblyInfo.cs
+C:\Users\ET73\Downloads\projetos-c#\Heranca2UpcastingDowncasting\obj\Debug\net8.0\Heranca2UpcastingDowncasting.csproj.CoreCompileInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Heranca2UpcastingDowncasting\obj\Debug\net8.0\Heranca2UpcastingDowncasting.dll
+C:\Users\ET73\Downloads\projetos-c#\Heranca2UpcastingDowncasting\obj\Debug\net8.0\refint\Heranca2UpcastingDowncasting.dll
+C:\Users\ET73\Downloads\projetos-c#\Heranca2UpcastingDowncasting\obj\Debug\net8.0\Heranca2UpcastingDowncasting.pdb
+C:\Users\ET73\Downloads\projetos-c#\Heranca2UpcastingDowncasting\obj\Debug\net8.0\Heranca2UpcastingDowncasting.genruntimeconfig.cache
+C:\Users\ET73\Downloads\projetos-c#\Heranca2UpcastingDowncasting\obj\Debug\net8.0\ref\Heranca2UpcastingDowncasting.dll

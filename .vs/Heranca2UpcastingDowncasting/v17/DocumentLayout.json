@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ET73\\Downloads\\projetos-c#\\Heranca2UpcastingDowncasting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{630D20E3-D827-4623-B62B-4ADC1B44C33B}|Heranca2UpcastingDowncasting.csproj|c:\\users\\et73\\downloads\\projetos-c#\\heranca2upcastingdowncasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630D20E3-D827-4623-B62B-4ADC1B44C33B}|Heranca2UpcastingDowncasting.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630D20E3-D827-4623-B62B-4ADC1B44C33B}|Heranca2UpcastingDowncasting.csproj|c:\\users\\et73\\downloads\\projetos-c#\\heranca2upcastingdowncasting\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630D20E3-D827-4623-B62B-4ADC1B44C33B}|Heranca2UpcastingDowncasting.csproj|solutionrelative:entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630D20E3-D827-4623-B62B-4ADC1B44C33B}|Heranca2UpcastingDowncasting.csproj|c:\\users\\et73\\downloads\\projetos-c#\\heranca2upcastingdowncasting\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630D20E3-D827-4623-B62B-4ADC1B44C33B}|Heranca2UpcastingDowncasting.csproj|solutionrelative:entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630D20E3-D827-4623-B62B-4ADC1B44C33B}|Heranca2UpcastingDowncasting.csproj|c:\\users\\et73\\downloads\\projetos-c#\\heranca2upcastingdowncasting\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630D20E3-D827-4623-B62B-4ADC1B44C33B}|Heranca2UpcastingDowncasting.csproj|solutionrelative:entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\ET73\\Downloads\\projetos-c#\\Heranca2UpcastingDowncasting\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\ET73\\Downloads\\projetos-c#\\Heranca2UpcastingDowncasting\\Entities\\Account.cs",
+              "RelativeToolTip": "Entities\\Account.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA/wBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:39:03.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BusinessAccount.cs",
+              "DocumentMoniker": "C:\\Users\\ET73\\Downloads\\projetos-c#\\Heranca2UpcastingDowncasting\\Entities\\BusinessAccount.cs",
+              "RelativeDocumentMoniker": "Entities\\BusinessAccount.cs",
+              "ToolTip": "C:\\Users\\ET73\\Downloads\\projetos-c#\\Heranca2UpcastingDowncasting\\Entities\\BusinessAccount.cs",
+              "RelativeToolTip": "Entities\\BusinessAccount.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:39:11.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\ET73\\Downloads\\projetos-c#\\Heranca2UpcastingDowncasting\\Entities\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "Entities\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\ET73\\Downloads\\projetos-c#\\Heranca2UpcastingDowncasting\\Entities\\SavingsAccount.cs",
+              "RelativeToolTip": "Entities\\SavingsAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:39:17.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ET73\\Downloads\\projetos-c#\\Heranca2UpcastingDowncasting\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ET73\\Downloads\\projetos-c#\\Heranca2UpcastingDowncasting\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:38:36.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
